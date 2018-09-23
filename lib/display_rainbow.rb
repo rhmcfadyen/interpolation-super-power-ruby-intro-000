@@ -1,3 +1,3 @@
 def display_rainbow(colors)
-  puts "R: #{1}, O: #{2}, Y: #{3}, G: #{4}, B: #{5}, I: #{6}, V:#{7}"
+  puts "R: #{red}, O: #{orange}, Y: #{yellow}, G: #{green}, B: #{blue}, I: #{indigo}, V:#{violet}"
 end
